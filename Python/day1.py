@@ -1,4 +1,4 @@
-def process_file(file='day1.txt'):
+def process_file(file='../Inputs/day1.txt'):
     with open(file) as f:
         return f.read()
 
